@@ -1,0 +1,5 @@
+@supports (animation-timeline: works) {
+  .SupportWarning {
+    display: none;
+  }
+}
